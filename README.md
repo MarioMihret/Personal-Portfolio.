@@ -1,7 +1,7 @@
 
 ![Personal portfolio](https://github.com/MarioMihret/Responsive-Landing-Page./blob/main/src/assets/2024-08-05%2010_33_51-React%20App%20and%201%20more%20page%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge.png)
 # Getting Started with Create React App
-
+ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
